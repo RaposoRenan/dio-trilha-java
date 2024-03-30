@@ -2,7 +2,9 @@ package metodosList;
 
 import java.util.*;
 
-public class ExemplosList {
+public class
+
+ExemplosList {
     public static void main(String[] args) {
         System.out.println("Crie uma lista e adicione as sete notas: ");
 
