@@ -1,4 +1,4 @@
-package me.dio.santander_bootcamp_2024;
+package me.dio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
